@@ -60,7 +60,7 @@ If connecting through a proxy create or modify `~/.m2/setting.xml` providing the
 OSC build process requires CentOS chroot environment to generate a VMDK, QCOW2 or a RAW image. This CentOS schroot environment allows the user to run a command or a login shell in a chroot environment.  
 
 To create a CentOS schroot environment run following commands:  
-`$ cd /local-working-directory/osc-core/osc-server-bon/bin`  
+`$ cd /local-working-directory/osc-core/osc-server-bom/bin 
 `$ ./create-centos`
 
 ### 6 : Build Commands
